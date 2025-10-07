@@ -1,1 +1,1 @@
-Hi setup sample Git This is User One
+Hi setup sample Git
